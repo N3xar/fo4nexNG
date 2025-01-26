@@ -1,0 +1,36 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Nexar's Curated Fallout 4 Next-Gen Modlist for 2025",
+    "description": "Nexar's Curated Fallout 4 Modlist 2025 Next-Gen",
+    "author": "N3xar",
+    "maintainers": [
+      "github/N3xar"
+    ],
+    "game": "fallout4",
+    "tags": [
+      "Next-Gen"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://nexarplays.co.za/wp-content/uploads/2025/01/Main-Image.webm",
+      "readme": "https://nexarplays.co.za/fallout4/",
+      "download": "https://authored-files.wabbajack.org/Fallout%204%20Curated%20Mods%202025%20by%20Nexar.wabbajack_3124ab14-73be-4f20-acac-ab6d23413b27",
+      "machineURL": "fo4nexNG",
+      "discordURL": "https://discord.gg/dhWM6qSbDC"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "MsSMvspn/mg=",
+      "Size": 669221210,
+      "NumberOfArchives": 384,
+      "SizeOfArchives": 119666836057,
+      "NumberOfInstalledFiles": 52065,
+      "SizeOfInstalledFiles": 190506096255
+    },
+    "version": "0.9"
+  }
+]
