@@ -1,8 +1,8 @@
 [
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "Nexar's Curated Fallout 4 Next-Gen Modlist for 2025",
-    "description": "Nexar's Curated Fallout 4 Modlist 2025 Next-Gen",
+    "title": "Fallout 4 NG Curated",
+    "description": "Nexar's Curated Fallout 4 Next-Gen Modlist 2025",
     "author": "N3xar",
     "maintainers": [
       "github/N3xar"
