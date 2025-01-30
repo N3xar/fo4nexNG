@@ -9,7 +9,11 @@
     ],
     "game": "fallout4",
     "tags": [
-      "Next-Gen"
+      "Next-Gen",
+      "No Downgrade",
+      "Body + Physics",
+      "Performance Friendly",
+      "Vanilla Friendly"
     ],
     "nsfw": false,
     "image_contains_title": true,
