@@ -27,21 +27,21 @@
     "links": {
       "image": "https://nexarplays.co.za/wp-content/uploads/2025/01/Main-Image.webp",
       "readme": "https://nexarplays.co.za/fallout4/",
-      "download": "https://authored-files.wabbajack.org/Fallout 4 NG curated.wabbajack_84a5f059-68a8-487c-8a40-b96a54273f63",
+      "download": "https://authored-files.wabbajack.org/Fallout 4 NG curated.wabbajack_e058efeb-82f2-4731-a541-ab7481d4ac03",
       "machineURL": "fo4nexNG",
       "discordURL": "https://discord.gg/dhWM6qSbDC"
     },
     "download_metadata": {
-      "Hash": "e9Y0PWfptI4=",
-      "Size": 696233858,
-      "NumberOfArchives": 385,
-      "SizeOfArchives": 119666839761,
+      "Hash": "bwD49EVa/KI=",
+      "Size": 711830111,
+      "NumberOfArchives": 384,
+      "SizeOfArchives": 119659252138,
       "NumberOfInstalledFiles": 52069,
-      "SizeOfInstalledFiles": 190503328959
+      "SizeOfInstalledFiles": 190503328995
     },
     "version": "1.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-02-01T15:41:17.0595791Z",
+    "dateUpdated": "2025-02-01T15:51:25.7273627Z",
     "repositoryName": ""
   }
 ]
