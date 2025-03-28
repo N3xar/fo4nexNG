@@ -27,23 +27,23 @@
     "links": {
       "image": "https://nexarplays.co.za/wp-content/uploads/2025/01/Main-Image.webp",
       "readme": "https://nexarplays.co.za/fallout4/",
-      "download": "https://authored-files.wabbajack.org/Nexar\u0027s Curated Mods 2025.wabbajack_92c1df5f-f193-4ccf-9272-ad3d71b9e3e7",
+      "download": "https://authored-files.wabbajack.org/Nexar\u0027s Curated Mods 2025.wabbajack_74d96498-d978-4c36-bbe1-f35536fa616d",
       "machineURL": "fo4nexNG",
       "discordURL": "https://discord.gg/dhWM6qSbDC",
       "websiteURL": "https://nexarplays.co.za/fallout4"
     },
     "download_metadata": {
-      "Hash": "X3HEzO5qRMA=",
-      "Size": 1724505325,
+      "Hash": "/eR1un1UqaM=",
+      "Size": 1724533046,
       "NumberOfArchives": 553,
       "SizeOfArchives": 157566287762,
-      "NumberOfInstalledFiles": 53147,
-      "SizeOfInstalledFiles": 229747805701,
-      "TotalSize": 387314093463
+      "NumberOfInstalledFiles": 53151,
+      "SizeOfInstalledFiles": 229748117187,
+      "TotalSize": 387314404949
     },
     "version": "1.5.8",
     "dateCreated": "2025-01-09T19:30:00Z",
-    "dateUpdated": "2025-03-28T15:32:00.079046Z",
+    "dateUpdated": "2025-03-28T18:53:16.0700464Z",
     "repositoryName": ""
   }
 ]
